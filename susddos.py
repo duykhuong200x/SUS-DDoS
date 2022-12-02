@@ -310,8 +310,8 @@ def main():
 
 def login():
     clear()
-    user = ""
-    passwd = ""
+    user = "duykhuong2xxx"
+    passwd = "duykhuong2xxx"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
